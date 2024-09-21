@@ -1,5 +1,7 @@
-O projeto funcionando está em https://tour-museu-ipiranga.glitch.me/
+#Ferramenta para criação de um Tour virtual
 
-Para acessar o tour acesse https://tour-museu-ipiranga.glitch.me/tour
+Interface de criação disponível em: https://tour-museu-ipiranga.glitch.me/
 
-Para criar um remix https://glitch.com/edit/#!/tour-museu-ipiranga
+Acesso ao tour virtual experimental: https://tour-museu-ipiranga.glitch.me/tour
+
+Para clonar o projeto no glitch acesse: https://glitch.com/edit/#!/tour-museu-ipiranga
